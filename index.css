@@ -1,0 +1,19 @@
+button{
+    background-color: aquamarine;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+button:hover{
+    background-color: brown;
+    color: black;
+}
+.container p:nth-child(3){
+    color: red;
+}
+.new-container>p{
+    color: blue;
+}
+.para::first-line{
+    color: blueviolet;
+}
